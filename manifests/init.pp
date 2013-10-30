@@ -1,4 +1,4 @@
-# This is a placeholder class.
+# This class will install the GPG Suite
 class gpgtools {
 
   package { 'GPGSuite':
