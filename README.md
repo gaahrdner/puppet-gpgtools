@@ -2,6 +2,8 @@
 
 Install the [GPG Suite](https://gpgtools.org/) on your Mac.
 
+[![Build Status](https://travis-ci.org/gaahrdner/puppet-gpgtools.png?branch=master)](https://travis-ci.org/gaahrdner/puppet-gpgtools)
+
 ```puppet
 include gpgtools
 ```
